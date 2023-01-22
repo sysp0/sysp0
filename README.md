@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Reza Ghasemi</h1>
-<h3 align="center">A passionate backend developer </h3>
-
-- 🌱 I’m currently learning **𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗**
-
-- 📫 How to reach me **syspo8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+# Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+
+<p>𝙸'𝚊𝚖 𝚁𝚎𝚣𝚎 𝙶𝚑𝚊𝚜𝚎𝚖𝚒.</br>𝙸'𝚊𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚝𝚘𝚘𝚕𝚜.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img align="right" src="https://media.giphy.com/media/xUPGcEK2HNHtN62jEk/giphy.gif" width="230"></p>
+
+**Currently working with:**
+
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+
+
+
+**Learning:**
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<!-- <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a> -->
+<!-- <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a> -->
