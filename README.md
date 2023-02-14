@@ -1,19 +1,14 @@
+# 💫 About Me:
+🔭 I’m currently working on my Projects & advance.<br>🌱 I’m currently learning DevOps Tools.<br>💬 Ask me about python, Network, ...<br>⚡ I hope to maintain my youthful energy for as long as possible.
 
 
-# Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sysp0&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sysp0&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sysp0&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p>𝙸'𝚊𝚖 𝚁𝚎𝚣𝚎 𝙶𝚑𝚊𝚜𝚎𝚖𝚒.</br>𝙸'𝚊𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚝𝚘𝚘𝚕𝚜.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img align="right" src="https://media.giphy.com/media/xUPGcEK2HNHtN62jEk/giphy.gif" width="230"></p>
-
-**Currently working with:**
-
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-
-
-
-**Learning:**
-
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<!-- <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a> -->
-<!-- <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a> -->
