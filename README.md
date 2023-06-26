@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently focused on advancing my skills and completing my projects.<br>🌱 I’m currently learning DevOps Tools.<br>💬 Ask me about python, Network, ...<br>⚡ I hope to maintain my youthful energy for as long as possible.
+🌱 I’m currently learning DevOps Tools.<br>💬 Ask me about python, Network, ...<br>⚡ I hope to maintain my youthful energy for as long as possible.
 
 
 # 💻 Tech Stack:
