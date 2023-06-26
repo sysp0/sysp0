@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps Tools.<br>💬 Ask me about python, Network, ...<br>⚡ I want to keep my youthful energy for as long as I can.
+🌱 I’m currently learning DevOps Tools.<br>💬 Ask me about python, Network, ...<br>⚡ "I want to keep my energy for as long as I can.
 
 
 # 💻 Tech Stack:
