@@ -1,14 +1,48 @@
-# 💫 About Me:
-🌱 I’m currently learning DevOps Tools.<br>💬 Ask me about python, Network, ...<br>⚡ I want to keep my energy for as long as I can.
+# Reza Ghasemi
 
+## DevOps Engineer 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sysp0&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sysp0&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sysp0&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I work on making software delivery automatic. I use containers for apps. I make systems big and strong. I build and fix CI/CD tools. They help teams work fast and safe.
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## About Me
+- I work on automatic CI/CD, manage infrastructure, and organize containers.
+- I know Linux well. I manage servers. I make systems better.
+- I like to write scripts in Python and Bash for automation.
+- I want to make things reliable, big, and help developers work better.
+---
 
+## My DevOps Toolbox
+
+### CI/CD & Automation
+- GitLab
+- Jenkins
+- Bash
+- Python
+
+### Containerization & Registry
+- Docker
+- Nexus
+- MinIO
+
+### Messaging & Task Queues
+- RabbitMQ
+- Celery
+
+### Databases & Storage
+- MySQL
+- MongoDB
+
+### Infrastructure & Systems
+- Linux
+
+### Orchestration
+- Kubernetes
+
+### Infrastructure as Code (IaC)
+- Terraform
+- Ansible
+
+### Monitoring & Observability
+- Prometheus
+- Grafana
