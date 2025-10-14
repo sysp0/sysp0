@@ -46,3 +46,6 @@ I work on making software delivery automatic. I use containers for apps. I make 
 ### Monitoring & Observability
 - Prometheus
 - Grafana
+
+![](https://raw.githubusercontent.com/sysp0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sysp0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
