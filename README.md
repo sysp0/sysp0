@@ -74,4 +74,9 @@ I work on making software delivery automatic. I use containers for apps. I make 
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
+  <img src="https://raw.githubusercontent.com/sysp0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview" />
+  <img src="https://raw.githubusercontent.com/sysp0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </p>
+
+
+
