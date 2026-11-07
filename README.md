@@ -29,37 +29,19 @@ An online shop project demonstrating Django REST Framework and DevOps practices.
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <a href="https://github.com/sysp0"><img src="https://streak-stats.demolab.com/?user=sysp0&theme=nightowl&hide_border=true" alt="GitHub contribution streak for sysp0" width="70%" /></a>
-</p>
+GitHub’s live contribution graph and repository activity are shown on this profile below the README. Keeping these metrics native to GitHub avoids broken third-party stats cards.
 
-<p align="center">
-  🏆 <a href="https://github.com/sysp0">Quickdraw</a> · <a href="https://github.com/sysp0">Pull Shark ×2</a> · <a href="https://github.com/sysp0">YOLO</a><br>
-  <a href="https://github.com/sysp0">See my contribution graph, activity, and achievements on GitHub</a>
-</p>
+**Achievements:** 🏆 [Quickdraw](https://github.com/sysp0) · [Pull Shark ×2](https://github.com/sysp0) · [YOLO](https://github.com/sysp0)
 
 ## 🛠️ Languages & Tools
 
-**Languages**<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Backend & APIs**<br>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST-9B1C1C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Frontend**<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Data engineering & AI**<br>
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Debezium](https://img.shields.io/badge/Debezium-FF5A4E?style=flat-square) ![SeaTunnel](https://img.shields.io/badge/SeaTunnel-00A6A6?style=flat-square) ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Apache Doris](https://img.shields.io/badge/Apache_Doris-4D70FF?style=flat-square) ![Iceberg](https://img.shields.io/badge/Iceberg-0C6B58?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black) ![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Langfuse](https://img.shields.io/badge/Langfuse-7A5AF8?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-
-**Databases**<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**DevOps, cloud & tools**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-
-**Developer tools**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- **Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
+- **Backend & APIs:** Django, Django REST Framework, FastAPI, Node.js, Express, Celery, RabbitMQ
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Data engineering & AI:** Kafka, Debezium, SeaTunnel, Flink, dbt, Apache Doris, Iceberg, ClickHouse, Dagster, Airflow, LangChain, Langfuse, OpenRouter, Gemini
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite
+- **DevOps & cloud:** Linux, Docker, Kubernetes, AWS, Google Cloud, Azure, GitLab CI/CD, Jenkins, MinIO
+- **Developer tools:** Git, VS Code, Figma, Postman, Webpack, Vite
 
 ## 🔗 Connect with Me
 
