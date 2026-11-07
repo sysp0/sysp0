@@ -1,82 +1,67 @@
+<div align="center">
+
 # Reza Ghasemi
+### Software · Data · AI
 
-## DevOps Engineer 
-I work on making software delivery automatic. I use containers for apps. I make systems big and strong. I build and fix CI/CD tools. They help teams work fast and safe.
+<p>
+  <a href="https://sysp0.com/sys/me"><img src="https://img.shields.io/badge/Engineering_journey-sysp0.com-0f766e?style=for-the-badge&logo=firefox&logoColor=white" alt="Engineering journey"></a>
+  <a href="https://gitlab.com/sysp0"><img src="https://img.shields.io/badge/GitLab-Projects-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab projects"></a>
+  <a href="https://www.linkedin.com/in/syspo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+**From network testing to backend, DevOps, data infrastructure, and applied AI.**
+
+</div>
 
 ---
 
-## About Me
-- I work on automatic CI/CD, manage infrastructure, and organize containers.
-- I know Linux well. I manage servers. I make systems better.
-- I like to write scripts in Python and Bash for automation.
-- I want to make things reliable, big, and help developers work better.
+## About
 
----
-<h2 align="center">My DevOps Toolbox 🛠️</h2>
+I’m Reza, an engineer who likes building useful systems and improving how they run. My work began with testing routers and switches, moved into Python tools and backend services, then into CI/CD and infrastructure. I now build data platforms and apply AI to real product workflows.
 
-<p align="center">
-  <!-- CI/CD & Automation -->
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  </a>
+## What I’ve built
 
-  <!-- Containerization & Registry -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://min.io/" target="_blank">
-    <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
-  </a>
-  
-  <!-- Orchestration & IaC -->
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  </a>
+- **Network testing:** researched static-routing scenarios, tested routers and switches before release, and documented networking technologies for the QC team.
+- **Backend and test automation:** built Python packages and a Django REST Framework platform for automated testing, with Celery and RabbitMQ for scheduled and asynchronous work.
+- **CI/CD and operations:** created GitLab and Jenkins pipelines for Dev, Staging, and Prod; parallelized network test runs, reducing a typical run from about 30 minutes to about 10; and automated artifact storage and device management.
+- **Data infrastructure:** designed a Modern Data Stack for 10+ sources, using CDC and streaming, dbt modeling, Apache Doris for real-time analytics, and Apache Iceberg for historical data. The platform includes lineage, data quality, access controls, and internal APIs.
+- **Applied AI:** building LLM workflows for support-ticket analysis and hotel-review summaries, with scheduled pipelines and product-facing APIs.
+
+## Public project
+
+### [DRF-Commerce](https://gitlab.com/sysp0/drf-commerce)
+
+An online shop project demonstrating Django REST Framework and DevOps practices. See the repository for its implementation and current stack.
+
+> The systems and platform work above includes work for product teams; the linked GitLab repository is the public project featured here.
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Apache Flink">
+  <img src="https://img.shields.io/badge/Apache_Doris-4D70FF?style=flat-square" alt="Apache Doris">
+  <img src="https://img.shields.io/badge/Apache_Iceberg-0C6B58?style=flat-square" alt="Apache Iceberg">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-<p align="center">
-  <!-- Databases & Messaging -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  </a>
-  <a href="https://docs.celeryq.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4" alt="Celery"/>
-  </a>
+## Find me
 
-  <!-- Monitoring & Systems -->
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <img src="https://raw.githubusercontent.com/sysp0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview" />
-  <img src="https://raw.githubusercontent.com/sysp0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
-</p>
+- 🌐 Portfolio: [sysp0.com/sys/me](https://sysp0.com/sys/me)
+- 🦊 GitLab: [gitlab.com/sysp0](https://gitlab.com/sysp0)
+- 💼 LinkedIn: [linkedin.com/in/syspo](https://www.linkedin.com/in/syspo/)
+- 🐙 GitHub: [@sysp0](https://github.com/sysp0)
+- ✉️ Email: [syspo8@gmail.com](mailto:syspo8@gmail.com)
 
-
-
+<p align="center"><sub>Start at P0. Build the system.</sub></p>
